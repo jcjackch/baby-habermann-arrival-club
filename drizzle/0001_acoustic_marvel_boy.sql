@@ -1,0 +1,1 @@
+ALTER TABLE `entries` ADD `predicted_hour` integer DEFAULT 12 NOT NULL;
